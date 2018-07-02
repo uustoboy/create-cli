@@ -58,6 +58,16 @@
 ``` 
    $ cf beajs xiangmu/j/index.js
 ``` 
+### 单独下载base_mixins
+``` 
+   $ cf ds / $ cf ds xiangmu/s
+``` 
+### 创建默认HTML默认页
+``` 
+   $ cf n xiangmu/index.html -p (PC 端默认html页) / $ cf n xiangmu/index.html -a (APP 端默认html页)
+``` 
 
 参考图片:<br/>
-![image](https://github.com/uustoboy/create-cli/raw/master/explain-img/2.png)
+![image](https://github.com/uustoboy/create-cli/raw/master/explain-img/2.png);<br/>
+![image](https://github.com/uustoboy/create-cli/raw/master/explain-img/3.png);
+
