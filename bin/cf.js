@@ -138,7 +138,13 @@ program
 
         log();
     });
-
+program
+    .command('server')
+    .alias('s')
+    .description('启动静态server')
+    .action((cmd, option) => {
+        _class(cmd, option);
+    })
 
 
 

@@ -66,8 +66,15 @@
 ``` 
    $ cf n xiangmu/index.html -p (PC 端默认html页) / $ cf n xiangmu/index.html -a (APP 端默认html页)
 ``` 
+### 启动静态服务器
+``` 
+   $ cf s 3000(端口号)
+``` 
 
 参考图片:<br/>
 ![image](https://github.com/uustoboy/create-cli/raw/master/explain-img/2.png);<br/>
 ![image](https://github.com/uustoboy/create-cli/raw/master/explain-img/3.png);
+<br/>
+![image](https://github.com/uustoboy/create-cli/raw/master/explain-img/4.png);
+
 
