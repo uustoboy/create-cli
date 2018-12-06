@@ -1,4 +1,6 @@
 # create-cli
+![](https://img.shields.io/npm/v/create-cli.svg?style=flat)&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/npm/dt/create-cli.svg)&nbsp;&nbsp;&nbsp;[![GitHub stars](https://img.shields.io/github/stars/uustoboy/create-cli.svg?style=social)](https://github.com/uustoboy/create-cli/stargazers)
+
 创建简易前端项目
 (简单的创建三个文件夹和一个默认模板html页)
 
