@@ -89,6 +89,16 @@ program
     })
 
 program
+    .command('create')
+    .alias('cvue')
+    .description('初始化Vue项目')
+    .action((cmd,option) => {
+        if( option ){
+            _class(cmd, option);
+        }
+    })
+
+program
     .command('app [cmd]')
     .alias('a')
     .description('创建app项目文件夹')
