@@ -81,4 +81,4 @@
 ![image](https://github.com/uustoboy/create-cli/raw/master/explain-img/2.png);<br/>
 ![image](https://github.com/uustoboy/create-cli/raw/master/explain-img/3.png);<br/>
 ![image](https://github.com/uustoboy/create-cli/raw/master/explain-img/4.png);<br/>
-![image](https://github.com/uustoboy/create-cli/raw/master/explain-img/5.png);<br/>
+![image](https://github.com/uustoboy/create-cli/raw/master/explain-img/5.jpg);<br/>
